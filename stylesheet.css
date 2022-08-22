@@ -1,66 +1,66 @@
 a {
     color: #1772d0;
     text-decoration: none;
-  }
-  
-  a:focus,
-  a:hover {
+}
+    
+a:focus,
+a:hover {
     color: #f09228;
     text-decoration: none;
-  }
-  
-  body,
-  td,
-  th,
-  tr,
-  p,
-  a {
+}
+
+body,
+td,
+th,
+tr,
+p,
+a {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-size: 14px
-  }
-  
-  strong {
+}
+
+strong {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-size: 14px;
-  }
-  
-  heading {
+}
+
+heading {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-size: 22px;
-  }
-  
-  papertitle {
+}
+
+papertitle {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-size: 14px;
     font-weight: 700
-  }
-  
-  name {
+}
+
+name {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-size: 32px;
-  }
-  
-  .one {
+}
+
+.one {
     width: 160px;
     height: 160px;
     position: relative;
-  }
-  
-  .two {
+}
+
+.two {
     width: 160px;
     height: 160px;
     position: absolute;
     transition: opacity .2s ease-in-out;
     -moz-transition: opacity .2s ease-in-out;
     -webkit-transition: opacity .2s ease-in-out;
-  }
-  
-  .fade {
+}
+
+.fade {
     transition: opacity .2s ease-in-out;
     -moz-transition: opacity .2s ease-in-out;
     -webkit-transition: opacity .2s ease-in-out;
-  }
-  
-  span.highlight {
+}
+
+span.highlight {
     background-color: #ffffd0;
-  }
+}
